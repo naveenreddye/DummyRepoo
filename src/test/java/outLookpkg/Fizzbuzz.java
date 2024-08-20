@@ -3,7 +3,7 @@ package outLookpkg;
 public class Fizzbuzz {
 
 	int a=10;
-	
+	//j
 	void test() {
 		int a=90;
 		System.out.println(a);
